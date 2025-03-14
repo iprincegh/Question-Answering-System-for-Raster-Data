@@ -1,4 +1,7 @@
 <img width="312" alt="Screenshot 2025-03-05 at 12 47 03 AM" src="https://github.com/user-attachments/assets/805b3176-3b50-4ef1-a384-11ea719db975" />
+
+
+
 # Overview
 This project is a conversational AI system that allows users to ask questions about STAC Collections using natural language. It integrates with Neo4j for data retrieval and OpenAI's GPT models for generating responses. The system is designed to make geospatial data exploration intuitive and user-friendly.
 Project Final Repositories
