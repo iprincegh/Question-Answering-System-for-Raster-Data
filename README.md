@@ -5,6 +5,7 @@
 # Overview
 This project is a conversational AI system that allows users to ask questions about STAC Collections using natural language. It integrates with Neo4j for data retrieval and OpenAI's GPT models for generating responses. The system is designed to make geospatial data exploration intuitive and user-friendly.
 Project Final Repositories
+
 ● Backend: [STACHAT-BE](https://github.com/ishancoderr/STACHAT-BE)
 ● Frontend: [STACHAT-UI](https://github.com/ishancoderr/STACHAT-UI)
 
