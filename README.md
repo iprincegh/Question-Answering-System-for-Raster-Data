@@ -11,8 +11,11 @@ Project Final Repositories
 
 ## Features
 ● Answer questions about STAC Collections using natural language.
+
 ● Support for GPT-3.5-turbo and GPT-4-turbo models. (Multi-Model Support)
+
 ● Hybrid retrieval system combining Neo4j Vector Search and BM25.
+
 ● Dynamic response formatting with HTML for better readability.
 
 ### Team Members
